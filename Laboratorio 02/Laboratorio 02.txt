@@ -1,0 +1,19 @@
+********************************************************************************************
+TAREA
+1.-Funcionalidad que tiene cada uno de los elemntos que se hancreado como parte del nuevo 	modulo
+ +__init__.py :Aquí importamos todos los archivos y directorios que contienen código Python.
+	Este archivo hace que ODOO lo reconozca al directorio o carpeta como modulo.
+ +__manifest__.py : Es un archivo con la descripción del modulo 
+ +controllers : Soporta la lógica de negocio de la aplicación 
+ +demo : Es usado para rellenar la base de datos como por ejemplo la creación de usuarios 	ficticios 
+ +models : Define la estructura de los datos
+ +security : Son las politicas de seguridad del modulo
+ +views : Interfaz con la que interactua el usuario
+
+2.- OBSERVACIONES Y CONCLUCIONES
+ +Hicimos uso de los filtros en ODOO para encontrar mucho más rápido los módulos
+ +Instalamos módulos en ODOO 
+ +Cuando instalamos nuestro primer módulo por defecto también se instala el módulo de debate
+ +Existe una variedad de módulos que pueden cubrir nuestras necesidades
+ +ODOO es multiplataforma , no importa el sistema operativo , a través de tu navegador 	puedes ingresar a la interfaz
+********************************************************************************************
