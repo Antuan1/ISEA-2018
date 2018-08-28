@@ -1,0 +1,31 @@
+********************************************************************************************
+TAREA
+1.-Principales modulos disponibles en ODOO
+
+*e-mail Marketing: Se puede construir campañas 
+Contabilidad: Gestiona facturas y gastos. Controla facturas de los proveedores y crea una 		clara prevención de las facturas a pagar .
+*Marketing:	Organiza , Se puede añadir a la página eventos y propuestas que permita a 		los visitantes presentarse como oradores o proponer temas
+*eCommerce:Una moderna tienda online .Increíbles páginas de productos- Disponible a 			través de múltiples dispositivos móviles
+*Constructor de Sitios Web:Podemos crear su propio sitio web, añadir funciones a medida que 		sus negocio crezca 
+*CRM:	Gestione el ciclo de ventas. Realice el seguimiento de clientes potenciales, pistas 		y oportunidades cercanas
+*Ventas:Venda mas rápido cotizando en línea y exhiba profesionalmente sus productos y 		servicios. Envié presupuestos claros y completos a sus clientes prospectivos
+*Punto de venta:Compatible con cualquier hardware. Funciona tanto en línea como sin conexión
+
+2.-Principales productos ERP disponibles en la actualidad
+
+ *SAP all in One:Tiene la capacidad de integración con el resto de módulos que permiten una 		gestión integral y detallada de la finanzas, la distribución, recursos humanos, 		compras y ventas principalmente
+ *Oracle EBS:ERP, CRM y SCM es una misma aplicación, lo cual facilita las complejas tareas 	de grandes corporaciones y multinacionales con actividad solapada en diferentes 	países
+ *Microsoft Dynamics NAV:Entre los principales valores de Microsoft Dynamics NAV podemos 		mencionar la experiencia de usuario, la garantía de desarrollo a futuro y la extensa 	red de partners que ayuda a encontrar el más adecuado (o cambiarlo sin problema 		alguno si la relación no cuaja).
+
+3.-OBSERVACIONES Y CONCLUCIONES
+
+*El ERP ODOO es un sistema de información libre y de código abierto por lO que cualquier empresa consultora es capaz de realizar instalaciones 
+*ODOO nos ayuda a la reducción de tiempos de a gestión de la información de la empresa
+*ODOO nos ayuda a eliminar el uso de hojas de cálculo y base de datos independientes que pueden conducir a errores y perdidas de información 
+*El ERP ODOO mejora la comunicación entre el personal de una empresa, se evita de errores de comunicación, exceso de email, reuniones innecesarias y se evita la comunicación en papel
+*ESTA ERP es un sistema que facilita la mejora continua de la organizaciones
+
+
+
+
+********************************************************************************************
