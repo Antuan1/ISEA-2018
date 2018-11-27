@@ -1,0 +1,19 @@
+1.-¿Que es PETI?
+	Planeacion estrategica de tecnologias de informacion (PETI)
+	Es ampliamente reconocida como herramienta para ordenar los esfuerzos de incorporacion de TI
+El PETI es el documento de gestión que orienta el desarrollo de las TICs en cualquier empresa, a fin de que en la ejecución de un portafolio de proyectos informáticos estratégicos soporte a la organización en su meta de realizar la visión/misión que se propone.  Es un Plan de Acción, Hoja de Ruta o Pasos ordenados y estructurados que permiten en un cierto horizonte de tiempo implementar una arquitectura de TI deseada para soportar los objetivos estratégicos de la organización.
+Beneficios
+* Alinear la tecnología informática con la estrategia general de la       empresa
+* Cubrir todas las necesidades de información que puedan ser objeto de   tratamiento informático
+* Facilitar la utilización compartida de información dentro y fuera de   la empresa
+* Definir y da soporte a un marco o arquitectura para el desarrollo   integrado de aplicaciones y bases de datos
+
+2.-Elabore una descripcion detallada del PETI(modelo vistas)
+	El PETI contiene algunas etapas
+	*Inicio del proyecto
+	* Análisis de la estrategia empresarial
+	* Determinar el perfil y evaluar los sistemas existentes- 		informática actual.
+	* Análisis de las gerencias operacionales de la empresa
+	* Desarrollo del modelo Procesos/funcional de la empresa
+	* Desarrollo de la arquitectura de la TI
+	* Desarrollo de los planes estratégicos y tácticos
