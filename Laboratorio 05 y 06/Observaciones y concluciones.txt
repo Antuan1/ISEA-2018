@@ -1,0 +1,10 @@
+*************************************
+Observaciones y concluciones:
+
+Usamos _rec_name para hacer referencia al nombre(cursos) ya que tuve problemas al instanciar el id de cursos
+
+Tenemos que tener mucho cuidado con las tabulaciones en python ya que un espacio de mas sera suficiente para que nos salga error
+
+Tenemos que tener en cuenta que las relaciones que hagamos tienen que estar bien hechas ya que odoo saca los d por defecto sin que los nombres
+
+*************************************
